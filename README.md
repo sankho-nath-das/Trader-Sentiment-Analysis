@@ -52,4 +52,4 @@ Understanding trader behavior across sentiment regimes can help:
 
 ```bash
 pip install -r requirements.txt
-jupyter notebook notebook/analysis.ipynb
+jupyter notebook notebook/Data Science Assignment.ipynb
